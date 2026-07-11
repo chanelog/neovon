@@ -52,7 +52,7 @@ XRAY_BIN="$BIN_DIR/xray"
 XRAY_CONFIG="$XRAY_DIR/config.json"
 
 # ─── Update URL ─────────────────────────────────────────
-UPDATE_URL="https://raw.githubusercontent.com/chanelog/neonvpn/main"
+UPDATE_URL="https://raw.githubusercontent.com/masamuda1993/neonvpn/main"
 
 # ═══════════════════════════════════════════════════════════
 #  SECTION 2: COLOR PALETTE & UI ENGINE
